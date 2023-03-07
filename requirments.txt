@@ -1,5 +1,4 @@
 scikit-learn
-sklearn >= 3.5
 numpy>=1.20.0, <1.21.0
 pickle-mixin
 streamlit

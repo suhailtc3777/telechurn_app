@@ -1,6 +1,5 @@
-scikit-learn
 numpy>=1.20.0, <1.21.0
 pickle-mixin
 streamlit
 streamlit-option-menu
-
+scikit-learn==0.22.1
